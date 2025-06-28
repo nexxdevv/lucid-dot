@@ -1,0 +1,163 @@
+[
+  {
+    "author": "unknown",
+    "statement": "I remember a time I used to really hate being myself.",
+    "tags": ["self-loathing", "flipped-thinking"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I’m becoming more aware of what’s kept me unhappy in the past.",
+    "tags": ["self-awareness", "healing"]
+  },
+  {
+    "author": "unknown",
+    "statement": "Every moment is a new chance for me to forgive myself.",
+    "tags": ["forgiveness", "healing"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I’m not the pain I’ve endured — I’m the wisdom that keeps me alive.",
+    "tags": ["resilience", "identity"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I used to see my reflection and cringe. Now, I see someone learning to love again.",
+    "tags": ["self-image", "growth"]
+  },
+  {
+    "author": "unknown",
+    "statement": "What I hated was never me — it was the voice I learned to believe.",
+    "tags": ["self-loathing", "inner-critic"]
+  },
+  {
+    "author": "unknown",
+    "statement": "Even my worst days are not the whole story.",
+    "tags": ["perspective", "self-kindness"]
+  },
+  {
+    "author": "Carl Jung",
+    "statement": "I am not what happened to me, I am what I choose to become.",
+    "tags": ["transformation", "philosophy"]
+  },
+  {
+    "author": "unknown",
+    "statement": "Healing means learning not to abandon yourself.",
+    "tags": ["healing", "self-compassion"]
+  },
+  {
+    "author": "Rumi",
+    "statement": "Try not to resist the changes that come your way. Instead, let life live through you.",
+    "tags": ["acceptance", "flow"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I used to define myself by my damage. Now, I honor the depth it gave me.",
+    "tags": ["transformation", "self-worth"]
+  },
+  {
+    "author": "unknown",
+    "statement": "Some of my pain was inherited. I’m allowed to let go of what was never mine.",
+    "tags": ["generational", "healing"]
+  },
+  {
+    "author": "Brené Brown",
+    "statement": "You either walk inside your story and own it, or you stand outside your story and hustle for your worthiness.",
+    "tags": ["shame", "self-worth"]
+  },
+  {
+    "author": "unknown",
+    "statement": "The version of me that hated myself did their best to survive. I thank them.",
+    "tags": ["self-compassion", "integration"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I no longer have to be at war with myself to grow.",
+    "tags": ["peace", "inner-healing"]
+  },
+  {
+    "author": "unknown",
+    "statement": "Sometimes, I confuse comfort with safety. Self-loathing felt familiar, not right.",
+    "tags": ["healing", "awareness"]
+  },
+  {
+    "author": "unknown",
+    "statement": "Shame made me small. I’m learning to stand tall again.",
+    "tags": ["shame", "strength"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I am not broken. I am reassembling with more care this time.",
+    "tags": ["healing", "identity"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I deserve the same compassion I give others — maybe even more.",
+    "tags": ["self-compassion", "reflection"]
+  },
+  {
+    "author": "unknown",
+    "statement": "There is no shame in having struggled. There is courage in facing it.",
+    "tags": ["courage", "vulnerability"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I used to think I had to be someone else to be loved. Now I see — I’m enough as I am.",
+    "tags": ["self-love", "healing"]
+  },
+  {
+    "author": "unknown",
+    "statement": "The more I slow down, the more I hear my inner truth — and it’s not hateful.",
+    "tags": ["slowing-down", "inner-voice"]
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "statement": "To be beautiful means to be yourself. You don’t need to be accepted by others. You need to accept yourself.",
+    "tags": ["acceptance", "self-love"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I’m learning that I can be soft and strong at the same time.",
+    "tags": ["strength", "gentleness"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I will not measure myself by the love I didn’t receive.",
+    "tags": ["healing", "self-worth"]
+  },
+  {
+    "author": "unknown",
+    "statement": "There are still parts of me that ache. And still, I rise with them.",
+    "tags": ["resilience", "compassion"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I don’t need to punish myself to grow — I need love and patience.",
+    "tags": ["nurturing", "healing"]
+  },
+  {
+    "author": "unknown",
+    "statement": "The more I care for myself, the less room shame has to live.",
+    "tags": ["healing", "self-care"]
+  },
+  {
+    "author": "unknown",
+    "statement": "I’ve mistaken survival mode for self-hate. But I made it here, and I’m choosing to stay.",
+    "tags": ["survival", "self-compassion"]
+  },
+  {
+    "author": "unknown",
+    "statement": "Take a deep belly breath. Slowly. Count to 4 as you breathe in.",
+    "tags": ["breath", "calm"],
+    "type": "breath",
+    "phase": "inhale",
+    "duration": 4000
+  },
+  {
+    "author": "unknown",
+    "statement": "And breathe out… gently, like you’re releasing what you don’t need.",
+    "tags": ["breath", "calm"],
+    "type": "breath",
+    "phase": "exhale",
+    "duration": 6000
+  }
+]
